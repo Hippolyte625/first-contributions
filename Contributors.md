@@ -8,6 +8,7 @@ happy# Contributors
 - [Bryan](https://github.com/BryanLoooo)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
+- [Hippolyte625](https://github.com/Hippolyte625)
 - [Kate Basile](https://github.com/kbasil3)
 - [Bowen Zhang](https://github.com/bitbw)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
